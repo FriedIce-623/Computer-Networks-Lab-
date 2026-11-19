@@ -63,7 +63,7 @@ A straight-through cable uses the same wiring standard at both ends.
 - First end: T568B
 - Second end: T568B
 - Traditionally used to connect different types of networking devices, such as a computer to a switch.
-<img width="1865" height="1006" alt="image" src="https://github.com/user-attachments/assets/1d23d793-c6f2-43a5-b500-9ea9b0e97e09" />
+  <img width="1597" height="940" alt="image" src="https://github.com/user-attachments/assets/8ebbe9b6-1313-424f-9313-2c17056f79bb" />
 
 **2. Crossover Cable**
 
@@ -72,7 +72,7 @@ A crossover cable uses different wiring standards at the two ends.
 - First end: T568A
 - Second end: T568B
 - Traditionally used to connect similar devices, such as two computers directly.
-
+<img width="1865" height="1006" alt="image" src="https://github.com/user-attachments/assets/1d23d793-c6f2-43a5-b500-9ea9b0e97e09" />
 ## 4. Procedure
 
 ### Part A: Making a Straight-Through Cable
