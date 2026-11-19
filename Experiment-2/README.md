@@ -81,6 +81,8 @@ nslookup google.com
 ```
 
 This requires an appropriately configured DNS server.
+<img width="734" height="711" alt="image" src="https://github.com/user-attachments/assets/c9e13c85-47a4-49d5-a1fd-a771f4afeed1" />
+
 
 ## 4. Practical Implementation Using Cisco Packet Tracer
 
